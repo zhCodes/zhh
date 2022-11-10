@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ZhGithubStuApplication {
 
     public static void main(String[] args) {
-        /**
-         * 启动类
-         */
+
         SpringApplication.run(ZhGithubStuApplication.class, args);
     }
 
